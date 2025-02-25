@@ -20,8 +20,8 @@ setup(
         ],
     },
     python_requires=">=3.8",
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="AWS Glue ETL for Customer Revenue Analysis",
+    author="Yash Vedant",
+    author_email="yvedant18@outlook.com",
+    description="AWS Glue ETL",
     keywords="aws,glue,etl,spark",
 )
